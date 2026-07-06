@@ -1,8 +1,8 @@
-package EnginePyrskiRobert.engine;
+package Engine.engine;
 
-import EnginePyrskiRobert.math2D.Point2D;
-import EnginePyrskiRobert.math3D.Point3D;
-import EnginePyrskiRobert.math3D.Space;
+import Engine.math2D.Point2D;
+import Engine.math3D.Point3D;
+import Engine.math3D.Space;
 
 public final class Camera extends Space {
 

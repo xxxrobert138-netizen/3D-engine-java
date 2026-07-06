@@ -1,11 +1,11 @@
 package GAME_UNTRUST_PYRSKI_ROBERT_ROMANOVICH.yourbot;
 
-import EnginePyrskiRobert.engine.MyObject3D;
-import EnginePyrskiRobert.engine.Person;
-import EnginePyrskiRobert.engine.Room;
-import EnginePyrskiRobert.engine.Updation;
-import EnginePyrskiRobert.math3D.Point3D;
-import EnginePyrskiRobert.math3D.Vector3D;
+import Engine.engine.MyObject3D;
+import Engine.engine.Person;
+import Engine.engine.Room;
+import Engine.engine.Updation;
+import Engine.math3D.Point3D;
+import Engine.math3D.Vector3D;
 
 public class MyBot extends MyObject3D {
 

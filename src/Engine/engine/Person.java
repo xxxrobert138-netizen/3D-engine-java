@@ -1,7 +1,7 @@
-package EnginePyrskiRobert.engine;
+package Engine.engine;
 
-import EnginePyrskiRobert.math3D.Point3D;
-import EnginePyrskiRobert.math3D.Vector3D;
+import Engine.math3D.Point3D;
+import Engine.math3D.Vector3D;
 
 import java.util.ArrayList;
 

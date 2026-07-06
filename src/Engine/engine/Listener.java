@@ -1,4 +1,4 @@
-package EnginePyrskiRobert.engine;
+package Engine.engine;
 
 import java.awt.*;
 import java.awt.event.*;

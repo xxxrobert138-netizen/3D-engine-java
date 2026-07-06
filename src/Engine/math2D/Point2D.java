@@ -1,4 +1,4 @@
-package EnginePyrskiRobert.math2D;
+package Engine.math2D;
 
 public class Point2D {
 	

@@ -1,13 +1,12 @@
-package EnginePyrskiRobert.engine;
+package Engine.engine;
 
-import EnginePyrskiRobert.math2D.Point2D;
-import EnginePyrskiRobert.math3D.Face;
-import EnginePyrskiRobert.math3D.Point3D;
-import EnginePyrskiRobert.math3D.Vector3D;
+import Engine.math2D.Point2D;
+import Engine.math3D.Face;
+import Engine.math3D.Point3D;
+import Engine.math3D.Vector3D;
 
 
 import java.awt.*;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.TreeMap;

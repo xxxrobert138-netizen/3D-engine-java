@@ -1,6 +1,4 @@
-package EnginePyrskiRobert.math3D;
-
-import EnginePyrskiRobert.engine.Room;
+package Engine.math3D;
 
 import java.util.Arrays;
 

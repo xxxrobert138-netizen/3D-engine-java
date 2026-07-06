@@ -1,4 +1,4 @@
-package EnginePyrskiRobert.math3D;
+package Engine.math3D;
 
 public class Vector3D extends Point3D {
 

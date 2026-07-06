@@ -1,6 +1,6 @@
-package EnginePyrskiRobert.engine;
+package Engine.engine;
 
-import EnginePyrskiRobert.math2D.Point2D;
+import Engine.math2D.Point2D;
 
 import java.awt.*;
 import java.awt.event.KeyListener;
